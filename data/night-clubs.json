@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "name": "Rova yagur",
+    "imgUrl": "https://images.unsplash.com/photo-1570872626485-d8ffea69f463?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1935&q=80",
+    "websiteUrl": "https://www.eventer.co.il/venues/rova_yagur",
+    "address": "Yagur",
+    "neighbourhood": "Yagur"
+  },
+  {
+    "id": 1,
+    "name": "Z-City Night Club & Bar Haifa",
+    "imgUrl": "https://images.unsplash.com/photo-1566417713940-fe7c737a9ef2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=829&q=80",
+    "websiteUrl": "https://www.facebook.com/130814zcb/",
+    "address": "נתנזון 10, חיפה",
+    "neighbourhood": "Downtown Haifa"
+  },
+  {
+    "id": 300,
+    "name": "College Bar",
+    "imgUrl": "https://images.unsplash.com/photo-1545128485-c400e7702796?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "websiteUrl": "https://www.facebook.com/CollegeBarIsrael/",
+    "address": "חלוצי התעשיה 79, חיפה",
+    "neighbourhood": "Kiryat Haim"
+  }
+]
